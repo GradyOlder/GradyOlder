@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @GradyOlder
-- 👀 I’m interested in coding on Python and Roblox Lua
-- 🌱 I’m currently learning Python
+- Hi there.
